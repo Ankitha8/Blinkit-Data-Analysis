@@ -57,7 +57,7 @@ df['Item Fat Content'] = df['Item Fat Content'].replace({
     'reg': 'Regular'
 })
 
-📈 Analysis Performed
+##📈 Analysis Performed
 1. Total Sales by Item Type
 Fruits & Vegetables and Snack Foods generate the highest revenue.
 Seafood and Breakfast items have the lowest sales.
